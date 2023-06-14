@@ -1,0 +1,5 @@
+iso:
+  bootloader-in-rootfs: true
+  grub-entry-name: "K3s Installer"
+
+squash-no-compression: true
